@@ -1,0 +1,177 @@
+# -------------------------------
+# Python & JS Gitignore by Joho
+# -------------------------------
+# Version   v0.1.1
+# Created   17-Oct-2015
+# Updated   24-Nov-2015
+# Docs      http://git-scm.com/docs/gitignore
+# -------------------------------
+
+
+
+
+# -------------------------------
+# Configuration/Environment
+# -------------------------------
+
+.env
+
+# -------------------------------
+
+
+
+
+# -------------------------------
+# Python Packaging/Distribution
+# -------------------------------
+
+*$py.class
+*.egg
+*.egg-info
+*.manifest
+*.py[cod]
+*.pyc
+*.pyo
+*.so
+*.spec
+.eggs/
+.installed.cfg
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+target/
+var/
+venv/
+
+# -------------------------------
+
+
+
+
+# -------------------------------
+# Docker
+# -------------------------------
+
+*.exe
+*.exe~
+*.orig
+*.rej
+*.test
+.flymake*
+docker/
+
+# -------------------------------
+
+
+
+
+# -------------------------------
+# Node.js & Bower
+# -------------------------------
+
+bower_dependencies
+node_modules
+
+# -------------------------------
+
+
+
+
+# -------------------------------
+# Testing/Coverage/Runtime
+# -------------------------------
+
+*,cover
+.cache
+.coverage
+.coverage.*
+.hypothesis/
+.tox/
+.vagrant
+htmlcov/
+pip-*.txt
+
+# -------------------------------
+
+
+
+
+# -------------------------------
+# Runtime Data & Logs
+# -------------------------------
+
+*.out
+*.pid
+*.seed
+.harvest
+journal/
+lib-cov/
+logs/
+pids/
+report/
+results/
+
+# -------------------------------
+
+
+
+
+# -------------------------------
+# Packages
+# -------------------------------
+
+*.7z
+*.csv
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# -------------------------------
+
+
+
+
+# -------------------------------
+# Data & Database
+# -------------------------------
+
+*.log
+*.sql
+*.sqlite
+*.mdf
+*.ldf
+
+# -------------------------------
+
+
+
+
+
+# -------------------------------
+# OS-Generated/Miscellaneous
+# -------------------------------
+
+*~
+*.lnk
+.DS_Store*
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+packages
+Icon?
+Thumbs.db
+
+# -------------------------------

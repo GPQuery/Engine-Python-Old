@@ -52,9 +52,15 @@ Credits
 
 
 
-Disclaimer
-----------
+Attributions & Disclaimers
+--------------------------
+
+### [Ergast Developer API](http://ergast.com/mrd) ###
+
+> Complete images of the Ergast databases are published shortly after each race under the [Attribution-NonCommercial-ShareAlike 3.0 Unported Licence](//creativecommons.org/licenses/by-nc-sa/3.0/).
+
+
+
+### [Formula One](//formula1.com/content/fom-website/en/toolbar/guidelines.html) ###
 
 > This project is unofficial and is not associated in any way with the Formula One group of companies. F1, FORMULA ONE, FORMULA 1, FIA FORMULA ONE WORLD CHAMPIONSHIP, GRAND PRIX and related marks are trade marks of Formula One Licensing B.V.  
->
-> [Guidelines for the use of trade marks belonging to the Formula One group of companies](//formula1.com/content/fom-website/en/toolbar/guidelines.html)
